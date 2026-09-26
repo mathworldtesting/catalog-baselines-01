@@ -6,3 +6,6 @@ obj/
 .vs/
 *.user
 *.suo
+
+# setup.sh runtime state (logs, pid)
+.setup/
